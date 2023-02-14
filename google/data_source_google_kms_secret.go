@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"fmt"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
-	"log"
+	log "github.com/sirupsen/logrus"
 )
 
 func dataSourceGoogleKmsSecret() *schema.Resource {

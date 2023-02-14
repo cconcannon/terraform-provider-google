@@ -5,7 +5,7 @@ package google
 import (
 	"crypto/sha256"
 	"encoding/hex"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"net"
 	"reflect"
 	"regexp"

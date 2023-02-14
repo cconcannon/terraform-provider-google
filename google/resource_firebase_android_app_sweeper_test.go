@@ -8,7 +8,7 @@ package google
 
 import (
 	"context"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"strings"
 	"testing"
 
