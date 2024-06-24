@@ -3,7 +3,7 @@ package google
 import (
 	"encoding/base64"
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"testing"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"

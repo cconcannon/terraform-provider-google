@@ -2,7 +2,7 @@ package google
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"sort"
 	"strings"
 	"time"

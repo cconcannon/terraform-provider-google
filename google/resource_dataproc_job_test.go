@@ -3,7 +3,7 @@ package google
 import (
 	"fmt"
 	"io/ioutil"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"strings"
 	"testing"
 	"time"

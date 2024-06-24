@@ -17,7 +17,7 @@ package google
 import (
 	"bytes"
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"net"
 	"reflect"
 	"strings"

@@ -17,7 +17,7 @@ package google
 import (
 	"encoding/base64"
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"reflect"
 	"regexp"
 	"strings"

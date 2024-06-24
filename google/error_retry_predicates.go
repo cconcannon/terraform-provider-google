@@ -3,7 +3,7 @@ package google
 import (
 	"fmt"
 	"io"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"net"
 	"net/url"
 	"regexp"
